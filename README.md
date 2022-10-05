@@ -1,6 +1,6 @@
 # RotaryVolume
 
-A simple program for Arduino Leonardo / Pro Micro that uses a rotary encoder to send media commands through USB to a computer.
+A simple program for Arduino Leonardo / Pro Micro that uses a rotary encoder to send media commands through USB-HID to a computer.
 
 Rotating the encoder changes the volume, and pressing pauses the active media.
 
